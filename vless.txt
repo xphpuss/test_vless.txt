@@ -1,9 +1,6 @@
 
 
-vless://d471e982-4237-Fade-94df-c0d11029282a@195.209.82.149:443?encryption=none&type=ws&security=tls&host=s28233.cdn.ngenix.net&fp=qq&sni=s28233.cdn.ngenix.net&alpn=h2%2Chttp%2F1.1#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2313
-vless://8b6ff1ef-50b7-4196-88a6-ea47819a3b6e@158.160.224.52:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=qsqnCjigfD1_V7th-DKRtIrHuhyjN7kSnd85PBH5b2U&sid=22c70831c63f4abe&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2314
-vless://8b6ff1ef-50b7-4196-88a6-ea47819a3b6e@176.57.213.153:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=apple.com&pbk=ccCb6lQBtA2KOnCMVrsKXpFmUv2x8EOsMObkuJebNWw&sid=2d5a31d63a1c4914&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2315
-vless://5a6e22ec-c8b0-4db9-96be-b9278a28aaa7@95.163.211.240:80?encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%B7%F0%9F%87%BA%20UFO%20Hosting%20%E2%80%94%20%2316
+%BA%20UFO%20Hosting%20%E2%80%94%20%2316
 vless://5a6e22ec-c8b0-4db9-96be-b9278a28aaa7@95.163.211.240:80?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%B7%F0%9F%87%BA%20UFO%20Hosting%20%E2%80%94%20%2317
 vless://5a6e22ec-c8b0-4db9-96be-b9278a28aaa7@95.163.211.240:80?encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%B7%F0%9F%87%BA%20UFO%20Hosting%20%E2%80%94%20%2318
 vless://5a6e22ec-c8b0-4db9-96be-b9278a28aaa7@91.219.227.189:80?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%B7%F0%9F%87%BA%20UFO%20Hosting%20%E2%80%94%20%2319
