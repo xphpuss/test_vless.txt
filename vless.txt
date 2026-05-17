@@ -1,7 +1,6 @@
 
 
-%BA%20UFO%20Hosting%20%E2%80%94%20%2316
-vless://5a6e22ec-c8b0-4db9-96be-b9278a28aaa7@95.163.211.240:80?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%B7%F0%9F%87%BA%20UFO%20Hosting%20%E2%80%94%20%2317
+
 vless://5a6e22ec-c8b0-4db9-96be-b9278a28aaa7@95.163.211.240:80?encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%B7%F0%9F%87%BA%20UFO%20Hosting%20%E2%80%94%20%2318
 vless://5a6e22ec-c8b0-4db9-96be-b9278a28aaa7@91.219.227.189:80?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%B7%F0%9F%87%BA%20UFO%20Hosting%20%E2%80%94%20%2319
 vless://5a6e22ec-c8b0-4db9-96be-b9278a28aaa7@91.219.227.200:80?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%B7%F0%9F%87%BA%20UFO%20Hosting%20%E2%80%94%20%2320
